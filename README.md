@@ -52,7 +52,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ###  Clone repo
 Run the following scripts in the terminal to clone the repo
 ```
-$ git clone git@github.com:jamesmogambi/payment-backend.git
+$ git clone git@github.com/Snazzynuhu/fintech-backend
 $ cd payment-backend
 ```
 
